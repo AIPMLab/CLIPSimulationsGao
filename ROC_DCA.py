@@ -1,7 +1,4 @@
-'''
-Decision Curve Analysis and ROC Curves, and so many utils
-Author: Yihang Wu
-'''
+
 import numpy as np
 from sklearn.metrics import roc_curve, auc, det_curve
 from scipy import interp
